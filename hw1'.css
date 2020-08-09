@@ -1,0 +1,54 @@
+ body{
+	margin:2%;
+	font-size: 150%;
+padding: 2%;
+}
+
+header{
+	background-color: #F5DEB3;
+	background-image: URL (C:\Users\Arun Thapa\Desktop\web designing\images);
+  text-align: center;
+	padding: 3%;
+}
+
+h1{
+font-color: #A52A2A;
+  font-size: 150%;
+}
+
+nav a{
+	text-decoration: none;
+  display: inline-block;
+  padding: 1%;
+  margin: 1%;
+  border: none 1px;
+  border-radius: 1%;
+  background-color: #FFFFFF;
+  font-color: #DAA520;
+}
+
+a:active{
+  background-color: #000000;
+  font-color: #FF69B4;
+}
+.left{
+  display: inline-block;
+  background-color: #808000;
+  width: 45%;
+  height:50%;
+}
+
+.right{
+  display: inline-block;
+  width: 54%;
+  height: 50%
+}
+
+img{
+  border: none 2px;
+  display:block;
+  margin: 0 auto;
+	width: 40%;
+  height: 3%;
+  padding: 2%;
+}
